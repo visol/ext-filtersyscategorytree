@@ -1,0 +1,7 @@
+{
+  "name": "visol/filtersyscategorytree",
+  "type": "typo3-cms-extension",
+  "description": "Avoid duplicate items in sys_category tree",
+  "homepage": "https://github.com/visol/ext-filtersyscategorytree",
+  "license": ["GPL-2.0+"]
+}
